@@ -1,5 +1,3 @@
-# Terraform Course
-
 Labs description
 
 Assumption 
@@ -73,4 +71,6 @@ This lab demonstrates how to different types of loops in Terraform.
 
 smoke 
 folder has a test code to verify your local settings.  
+
+
 
